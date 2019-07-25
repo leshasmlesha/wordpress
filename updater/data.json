@@ -1,0 +1,126 @@
+{
+    "enable": true,
+    "site": "http://f0288029.xsph.ru",
+    "packages": [
+        {
+            "file": "layerslider.php",
+            "slug": "LayerSlider",
+            "name": "LayerSlider WP"
+        },
+        {
+            "file": "Ultimate_VC_Addons.php",
+            "slug": "Ultimate_VC_Addons",
+            "name": "Ultimate Addons for WPBakery Page Builder"
+        },
+        {
+            "file": "acf-woocommerce.php",
+            "slug": "acf-for-woocommerce",
+            "name": "ACF for Woocommerce"
+        },
+        {
+            "file": "acf.php",
+            "slug": "advanced-custom-fields-pro",
+            "name": "Advanced Custom Fields PRO"
+        },
+        {
+            "file": "booster-plus-for-woocommerce.php",
+            "slug": "booster-plus-for-woocommerce",
+            "name": "Booster Plus for WooCommerce"
+        },
+        {
+            "file": "download-manager.php",
+            "slug": "download-manager",
+            "name": "Download Manager"
+        },
+        {
+            "file": "elementor-pro.php",
+            "slug": "elementor-pro",
+            "name": "Elementor Pro"
+        },
+        {
+            "file": "ithemes-security-pro.php",
+            "slug": "ithemes-security-pro",
+            "name": "iThemes Security Pro"
+        },
+        {
+            "file": "js_composer.php",
+            "slug": "js_composer",
+            "name": "WPBakery Page Builder"
+        },
+        {
+            "file": "justified-image-grid.php",
+            "slug": "justified-image-grid",
+            "name": "Justified Image Grid"
+        },
+        {
+            "file": "mapsvg.php",
+            "slug": "mapsvg",
+            "name": "MapSVG"
+        },
+        {
+            "file": "prdctfltr.php",
+            "slug": "prdctfltr",
+            "name": "Product Filter for WooCommerce"
+        },
+        {
+            "file": "project-huddle.php",
+            "slug": "project-huddle",
+            "name": "ProjectHuddle"
+        },
+        {
+            "file": "sitepress.php",
+            "slug": "sitepress-multilingual-cms",
+            "name": "WPML Multilingual CMS"
+        },
+        {
+            "file": "updraftplus.php",
+            "slug": "updraftplus",
+            "name": "UpdraftPlus - Backup/Restore"
+        },
+        {
+            "file": "yellow-pencil.php",
+            "slug": "waspthemes-yellow-pencil",
+            "name": "YellowPencil Pro"
+        },
+        {
+            "file": "woocommerce-subscriptions.php",
+            "slug": "woocommerce-subscriptions",
+            "name": "WooCommerce Subscriptions"
+        },
+        {
+            "file": "wp-seo-premium.php",
+            "slug": "wordpress-seo-premium",
+            "name": "Yoast SEO Premium"
+        },
+        {
+            "file": "wp-optimize.php",
+            "slug": "wp-optimize-premium",
+            "name": "WP-Optimize Premium"
+        },
+        {
+            "file": "wp-rocket.php",
+            "slug": "wp-rocket",
+            "name": "WP Rocket"
+        },
+        {
+            "file": "wp-smush.php",
+            "slug": "wp-smush-pro",
+            "name": "Smush Pro"
+        },
+        {
+            "file": "wpforms.php",
+            "slug": "wpforms",
+            "name": "WPForms"
+        },
+        {
+            "file": "wpseo-woocommerce.php",
+            "slug": "wpseo-woocommerce",
+            "name": "Yoast SEO: WooCommerce"
+        },
+        {
+            "file": "init.php",
+            "slug": "yith-woocommerce-added-to-cart-popup-premium",
+            "name": "YITH WooCommerce Added to Cart Popup Premium"
+        }
+    ]
+}
