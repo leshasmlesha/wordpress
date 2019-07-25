@@ -28,6 +28,11 @@
             "name": "Booster Plus for WooCommerce"
         },
         {
+            "file": "cool-timeline-pro/cool-timeline-pro.php",
+            "slug": "cool-timeline-pro",
+            "name": "Plugin Name:Cool Timeline Pro"
+        },
+        {
             "file": "download-manager/download-manager.php",
             "slug": "download-manager",
             "name": "Download Manager"
@@ -36,6 +41,11 @@
             "file": "elementor-pro/elementor-pro.php",
             "slug": "elementor-pro",
             "name": "Elementor Pro"
+        },
+        {
+            "file": "fs_woocommerce_wallet/main.php",
+            "slug": "fs_woocommerce_wallet",
+            "name": "FS WooCommerce Wallet"
         },
         {
             "file": "ithemes-security-pro/ithemes-security-pro.php",
