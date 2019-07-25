@@ -3,122 +3,127 @@
     "site": "http://f0288029.xsph.ru",
     "packages": [
         {
-            "file": "layerslider.php",
+            "file": "LayerSlider/layerslider.php",
             "slug": "LayerSlider",
             "name": "LayerSlider WP"
         },
         {
-            "file": "Ultimate_VC_Addons.php",
+            "file": "Ultimate_VC_Addons/Ultimate_VC_Addons.php",
             "slug": "Ultimate_VC_Addons",
             "name": "Ultimate Addons for WPBakery Page Builder"
         },
         {
-            "file": "acf-woocommerce.php",
+            "file": "acf-for-woocommerce/acf-woocommerce.php",
             "slug": "acf-for-woocommerce",
             "name": "ACF for Woocommerce"
         },
         {
-            "file": "acf.php",
+            "file": "advanced-custom-fields-pro/acf.php",
             "slug": "advanced-custom-fields-pro",
             "name": "Advanced Custom Fields PRO"
         },
         {
-            "file": "booster-plus-for-woocommerce.php",
+            "file": "booster-plus-for-woocommerce/booster-plus-for-woocommerce.php",
             "slug": "booster-plus-for-woocommerce",
             "name": "Booster Plus for WooCommerce"
         },
         {
-            "file": "download-manager.php",
+            "file": "download-manager/download-manager.php",
             "slug": "download-manager",
             "name": "Download Manager"
         },
         {
-            "file": "elementor-pro.php",
+            "file": "elementor-pro/elementor-pro.php",
             "slug": "elementor-pro",
             "name": "Elementor Pro"
         },
         {
-            "file": "ithemes-security-pro.php",
+            "file": "ithemes-security-pro/ithemes-security-pro.php",
             "slug": "ithemes-security-pro",
             "name": "iThemes Security Pro"
         },
         {
-            "file": "js_composer.php",
+            "file": "js_composer/js_composer.php",
             "slug": "js_composer",
             "name": "WPBakery Page Builder"
         },
         {
-            "file": "justified-image-grid.php",
+            "file": "justified-image-grid/justified-image-grid.php",
             "slug": "justified-image-grid",
             "name": "Justified Image Grid"
         },
         {
-            "file": "mapsvg.php",
+            "file": "mapsvg/mapsvg.php",
             "slug": "mapsvg",
             "name": "MapSVG"
         },
         {
-            "file": "prdctfltr.php",
+            "file": "prdctfltr/prdctfltr.php",
             "slug": "prdctfltr",
             "name": "Product Filter for WooCommerce"
         },
         {
-            "file": "project-huddle.php",
+            "file": "project-huddle/project-huddle.php",
             "slug": "project-huddle",
             "name": "ProjectHuddle"
         },
         {
-            "file": "sitepress.php",
+            "file": "revslider/revslider.php",
+            "slug": "revslider",
+            "name": "Slider Revolution"
+        },
+        {
+            "file": "sitepress-multilingual-cms/sitepress.php",
             "slug": "sitepress-multilingual-cms",
             "name": "WPML Multilingual CMS"
         },
         {
-            "file": "updraftplus.php",
+            "file": "updraftplus/updraftplus.php",
             "slug": "updraftplus",
             "name": "UpdraftPlus - Backup/Restore"
         },
         {
-            "file": "yellow-pencil.php",
+            "file": "waspthemes-yellow-pencil/yellow-pencil.php",
             "slug": "waspthemes-yellow-pencil",
             "name": "YellowPencil Pro"
         },
         {
-            "file": "woocommerce-subscriptions.php",
+            "file": "woocommerce-subscriptions/woocommerce-subscriptions.php",
             "slug": "woocommerce-subscriptions",
             "name": "WooCommerce Subscriptions"
         },
         {
-            "file": "wp-seo-premium.php",
+            "file": "wordpress-seo-premium/wp-seo-premium.php",
             "slug": "wordpress-seo-premium",
             "name": "Yoast SEO Premium"
         },
         {
-            "file": "wp-optimize.php",
+            "file": "wp-optimize-premium/wp-optimize.php",
             "slug": "wp-optimize-premium",
             "name": "WP-Optimize Premium"
         },
         {
-            "file": "wp-rocket.php",
+            "file": "wp-rocket/wp-rocket.php",
             "slug": "wp-rocket",
             "name": "WP Rocket"
         },
         {
-            "file": "wp-smush.php",
+            "file": "wp-smush-pro/wp-smush.php",
             "slug": "wp-smush-pro",
             "name": "Smush Pro"
         },
         {
-            "file": "wpforms.php",
+            "file": "wpforms/wpforms.php",
             "slug": "wpforms",
             "name": "WPForms"
         },
         {
-            "file": "wpseo-woocommerce.php",
+            "file": "wpseo-woocommerce/wpseo-woocommerce.php",
             "slug": "wpseo-woocommerce",
             "name": "Yoast SEO: WooCommerce"
         },
         {
-            "file": "init.php",
+            "file": "yith-woocommerce-added-to-cart-popup-premium/init.php",
             "slug": "yith-woocommerce-added-to-cart-popup-premium",
             "name": "YITH WooCommerce Added to Cart Popup Premium"
         }
