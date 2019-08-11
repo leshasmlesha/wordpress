@@ -68,6 +68,11 @@
             "name": "MapSVG"
         },
         {
+            "file": "polylang-pro/polylang.php",
+            "slug": "polylang-pro",
+            "name": "Polylang Pro"
+        },
+        {
             "file": "prdctfltr/prdctfltr.php",
             "slug": "prdctfltr",
             "name": "Product Filter for WooCommerce"
@@ -76,6 +81,11 @@
             "file": "project-huddle/project-huddle.php",
             "slug": "project-huddle",
             "name": "ProjectHuddle"
+        },
+        {
+            "file": "real-media-library/index.php",
+            "slug": "real-media-library",
+            "name": "WP Real Media Library"
         },
         {
             "file": "revslider/revslider.php",
@@ -110,7 +120,7 @@
         {
             "file": "wp-optimize-premium/wp-optimize.php",
             "slug": "wp-optimize-premium",
-            "name": "WP-Optimize Premium"
+            "name": "WP-Optimize Premium - Clean, Compress, Cache"
         },
         {
             "file": "wp-rocket/wp-rocket.php",
