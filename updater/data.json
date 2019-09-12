@@ -108,6 +108,11 @@
             "name": "YellowPencil Pro"
         },
         {
+            "file": "wccp-pro/preventer-index.php",
+            "slug": "wccp-pro",
+            "name": "WP Content Copy Protection & No Right Click (premium)"
+        },
+        {
             "file": "woocommerce-subscriptions/woocommerce-subscriptions.php",
             "slug": "woocommerce-subscriptions",
             "name": "WooCommerce Subscriptions"
