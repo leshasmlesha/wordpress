@@ -83,6 +83,11 @@
             "name": "ProjectHuddle"
         },
         {
+            "file": "real-category-library/index.php",
+            "slug": "real-category-library",
+            "name": "WP Real Categories Management"
+        },
+        {
             "file": "real-media-library/index.php",
             "slug": "real-media-library",
             "name": "WP Real Media Library"
