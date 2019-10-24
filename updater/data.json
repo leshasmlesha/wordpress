@@ -13,9 +13,9 @@
             "name": "Ultimate Addons for WPBakery Page Builder"
         },
         {
-            "file": "acf-for-woocommerce/acf-woocommerce.php",
+            "file": "acf-for-woocommerce/acf-for-woocommerce.php",
             "slug": "acf-for-woocommerce",
-            "name": "ACF for Woocommerce"
+            "name": "Advanced Custom Fields for WooCommerce"
         },
         {
             "file": "advanced-custom-fields-pro/acf.php",
