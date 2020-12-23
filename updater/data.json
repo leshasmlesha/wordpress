@@ -13,9 +13,24 @@
             "name": "Ultimate Addons for WPBakery Page Builder"
         },
         {
+            "file": "acf-for-woocommerce/acf-for-woocommerce.php",
+            "slug": "acf-for-woocommerce",
+            "name": "Advanced Custom Fields for WooCommerce"
+        },
+        {
+            "file": "acf-front-form-elementor/acf-front-form-elementor.php",
+            "slug": "acf-front-form-elementor",
+            "name": "ACF Front Form for Elementor"
+        },
+        {
             "file": "advanced-custom-fields-pro/acf.php",
             "slug": "advanced-custom-fields-pro",
             "name": "Advanced Custom Fields PRO"
+        },
+        {
+            "file": "ajax-search-pro/ajax-search-pro.php",
+            "slug": "ajax-search-pro",
+            "name": "Ajax Search Pro"
         },
         {
             "file": "booster-plus-for-woocommerce/booster-plus-for-woocommerce.php",
@@ -31,6 +46,11 @@
             "file": "download-manager/download-manager.php",
             "slug": "download-manager",
             "name": "Download Manager"
+        },
+        {
+            "file": "easy-digital-downloads/easy-digital-downloads.php",
+            "slug": "easy-digital-downloads",
+            "name": "Easy Digital Downloads"
         },
         {
             "file": "elementor-pro/elementor-pro.php",
@@ -63,6 +83,16 @@
             "name": "MapSVG"
         },
         {
+            "file": "ph-file-uploads/ph-file-uploads.php",
+            "slug": "ph-file-uploads",
+            "name": "ProjectHuddle — File Uploads Addon"
+        },
+        {
+            "file": "ph-pdf-mockups/ph-pdf-mockups.php",
+            "slug": "ph-pdf-mockups",
+            "name": "ProjectHuddle — PDF Mockups Addon"
+        },
+        {
             "file": "polylang-pro/polylang.php",
             "slug": "polylang-pro",
             "name": "Polylang Pro"
@@ -80,12 +110,12 @@
         {
             "file": "real-category-library/index.php",
             "slug": "real-category-library",
-            "name": "WP Real Categories Management"
+            "name": "Real Category Management"
         },
         {
             "file": "real-media-library/index.php",
             "slug": "real-media-library",
-            "name": "WP Real Media Library"
+            "name": "Real Media Library"
         },
         {
             "file": "revslider/revslider.php",
@@ -113,6 +143,11 @@
             "name": "WP Content Copy Protection & No Right Click (premium)"
         },
         {
+            "file": "woocommerce-products-filter/index.php",
+            "slug": "woocommerce-products-filter",
+            "name": "WOOF - WooCommerce Products Filter"
+        },
+        {
             "file": "woocommerce-subscriptions/woocommerce-subscriptions.php",
             "slug": "woocommerce-subscriptions",
             "name": "WooCommerce Subscriptions"
@@ -123,9 +158,19 @@
             "name": "Yoast SEO Premium"
         },
         {
+            "file": "wp-magic-link-login/wp-magic-link-login.php",
+            "slug": "wp-magic-link-login",
+            "name": "WP Magic Link Login"
+        },
+        {
             "file": "wp-optimize-premium/wp-optimize.php",
             "slug": "wp-optimize-premium",
             "name": "WP-Optimize Premium - Clean, Compress, Cache"
+        },
+        {
+            "file": "wp-recall/wp-recall.php",
+            "slug": "wp-recall",
+            "name": "WP-Recall"
         },
         {
             "file": "wp-rocket/wp-rocket.php",
