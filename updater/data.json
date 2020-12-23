@@ -133,6 +133,11 @@
             "name": "UpdraftPlus - Backup/Restore"
         },
         {
+            "file": "w3-total-cache/w3-total-cache.php",
+            "slug": "w3-total-cache",
+            "name": "W3 Total Cache"
+        },
+        {
             "file": "waspthemes-yellow-pencil/yellow-pencil.php",
             "slug": "waspthemes-yellow-pencil",
             "name": "YellowPencil Pro"
@@ -171,6 +176,11 @@
             "file": "wp-recall/wp-recall.php",
             "slug": "wp-recall",
             "name": "WP-Recall"
+        },
+        {
+            "file": "wp-reset/wp-reset.php",
+            "slug": "wp-reset",
+            "name": "WP Reset PRO"
         },
         {
             "file": "wp-rocket/wp-rocket.php",
